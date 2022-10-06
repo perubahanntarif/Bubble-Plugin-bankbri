@@ -1,0 +1,16 @@
+{
+    "categories": {
+        "0": "blog",
+        "1": "web scraping",
+        "2": "data (things)",
+        "3": "mobile",
+        "4": "productivity"
+    },
+    "demo_page": "bankbri_perubahanntarif",
+    "description": "perubahan tarif transaksi",
+    "image": "//s3.amazonaws.com/appforest_uf/f1665084016370x713310910283412500/IMG_20220713_212320.jpg",
+    "license": "open_source",
+    "link": "https://bankbri_perubahanntarif.bubble.oi",
+    "name": "bankbri",
+    "plugin_instructions": "bankbri"
+}
